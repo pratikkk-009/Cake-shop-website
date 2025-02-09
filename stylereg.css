@@ -1,0 +1,26 @@
+form{
+  height: 100px;
+  width: 400px;
+  position: fixed;
+  left: 250px;
+  top: 160px;
+
+}
+div{
+  border: 1px solid  #ffffff10;
+ padding-left: 10px;
+ padding-top: 10px;
+ padding-right: 10px;
+ border-radius: 15px;
+ color: white;
+ filter:  rgb(44, 12, 12)(5px);
+  background-color: #0707076e;
+}
+body{
+  background-image: url("images/bgcake.jpg");
+  background-size: 1400px 650px ;
+	background-repeat: no-repeat;
+}
+a{
+  color: #baf36f;
+}

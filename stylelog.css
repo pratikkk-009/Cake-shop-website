@@ -1,0 +1,26 @@
+form{
+    height: 200px;
+    width: 350px;
+    position: fixed;
+    left: 100px;
+    top: 100px;
+ 
+}
+div{
+	border: 1px solid  #ffffff10;
+	padding-left: 10px;
+   	padding-top: 10px;
+   	padding-right:15px;
+   	border-radius: 15px;
+   	color: white;
+   	filter:  rgb(44, 12, 12)(5px);
+    background-color: #02020265;
+}
+body{
+    background-image: url("images/hbd.jpg");
+    background-size: 1400px 650px ;
+	background-repeat: no-repeat;
+}
+a{
+    color: #baf36f;
+}
